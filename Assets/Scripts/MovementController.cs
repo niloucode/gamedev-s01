@@ -49,7 +49,7 @@ public class MovementController : MonoBehaviour
 
     public void OnJump(InputValue value)
     {
-        if (value.isPressed)
+        if (value.isPressed && Mathf.Abs(rb.linearVelocity.y) < 0.001f)
         {
             rb.AddForce(Vector3.up * 5f, ForceMode.Impulse);
         }
