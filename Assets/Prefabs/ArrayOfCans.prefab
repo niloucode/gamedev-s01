@@ -1,0 +1,1524 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7546005230067134775
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8348806212630982720}
+  m_Layer: 0
+  m_Name: ArrayOfCans
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8348806212630982720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7546005230067134775}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5032711950984176576}
+  - {fileID: 2298576828376861885}
+  - {fileID: 5147824136621578626}
+  - {fileID: 5148470124839067443}
+  - {fileID: 8158469971937290322}
+  - {fileID: 6899461059559751756}
+  - {fileID: 2617834222442025842}
+  - {fileID: 1198603746801736945}
+  - {fileID: 1248217211514049699}
+  - {fileID: 607570647061295592}
+  - {fileID: 2010916488156400126}
+  - {fileID: 8461048131712041102}
+  - {fileID: 7526192316998606536}
+  - {fileID: 651615157741735071}
+  - {fileID: 2377682812122032298}
+  - {fileID: 1191557738420642241}
+  - {fileID: 4198902989080050519}
+  - {fileID: 70814608222521469}
+  - {fileID: 761682707756378093}
+  - {fileID: 804247906829182661}
+  - {fileID: 2017218711781346862}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &47663182438736003
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3875002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.0861945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1250
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &2377682812122032298 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 47663182438736003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &288800850933013339
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.885
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.1931958
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1689
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &2617834222442025842 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 288800850933013339}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1879105535874495358
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6391703
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.88499993
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.2421956
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1704
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &4198902989080050519 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 1879105535874495358}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2354811959372070996
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.7781961
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1698
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &70814608222521469 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 2354811959372070996}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2898324514276325825
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3875002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3897152
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1253
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &607570647061295592 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 2898324514276325825}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2980657320343700662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8920001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.231196
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1259
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &651615157741735071 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 2980657320343700662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3081701165412757444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6391703
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.88499993
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.9141958
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1689
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &761682707756378093 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 3081701165412757444}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3134276329551326956
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63883
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.4441957
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1695
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &804247906829182661 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 3134276329551326956}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3521586149264714216
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.106196
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1725
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &1191557738420642241 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 3521586149264714216}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3527487577485743320
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3875
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.697195
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1250
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &1198603746801736945 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 3527487577485743320}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3532196987990908042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.905
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5381951
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &1248217211514049699 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 3532196987990908042}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4298955473560421895
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.88499993
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5801954
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1695
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &2017218711781346862 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 4298955473560421895}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4304976591567192535
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63883
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.750196
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1692
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &2010916488156400126 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 4304976591567192535}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4589242720768033940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3875002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.996675
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1250
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &2298576828376861885 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 4589242720768033940}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5198284867402208993
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.3989992
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.390195
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &7526192316998606536 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 5198284867402208993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5867866732486893691
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8920001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5221949
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &8158469971937290322 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 5867866732486893691}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6142279805017000103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.88499993
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.8861957
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1692
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &8461048131712041102 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 6142279805017000103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7314307968234925033
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63883
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.356676
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: GameObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1692
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &5032711950984176576 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 7314307968234925033}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7432459795003315994
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.399
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.6891952
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &5148470124839067443 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 7432459795003315994}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7432859432485589419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.892
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.837675
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1256
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &5147824136621578626 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 7432859432485589419}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9217078181637834853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8348806212630982720}
+    m_Modifications:
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.63883
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37500042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.0571961
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_Name
+      value: CocaCola (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369675565507915243, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4980464472288502780, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1689
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+--- !u!4 &6899461059559751756 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2330169167094073385, guid: bd48219f6ccecd3a1876dfea3a36cfb7, type: 3}
+  m_PrefabInstance: {fileID: 9217078181637834853}
+  m_PrefabAsset: {fileID: 0}
