@@ -756,7 +756,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &10102806
 PrefabInstance:
@@ -858,7 +857,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &17318207
 Mesh:
@@ -1318,7 +1316,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &39006619
 Mesh:
@@ -1921,7 +1918,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &73534949
 Mesh:
@@ -2737,7 +2733,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &79764961
 PrefabInstance:
@@ -2839,7 +2834,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &83593045
 PrefabInstance:
@@ -2941,7 +2935,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &97331929
 Mesh:
@@ -4270,7 +4263,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &159289783
 PrefabInstance:
@@ -4372,7 +4364,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &159702192
 Mesh:
@@ -4653,7 +4644,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &168725525
 Mesh:
@@ -5113,7 +5103,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &178580837
 GameObject:
@@ -5168,9 +5157,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &178580840
@@ -6526,7 +6512,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &233478497
 Mesh:
@@ -7560,7 +7545,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &261749664
 GameObject:
@@ -7615,9 +7599,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &261749667
@@ -8191,7 +8172,7 @@ Transform:
   m_GameObject: {fileID: 269897447}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12, y: 1.4937, z: 2.0893}
+  m_LocalPosition: {x: 12, y: 1.4937, z: -2.0000002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8570,7 +8551,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &290505541
 Mesh:
@@ -9209,7 +9189,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &301465857
 PrefabInstance:
@@ -9311,7 +9290,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &311329882
 PrefabInstance:
@@ -9495,7 +9473,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &322473806
 PrefabInstance:
@@ -9597,7 +9574,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &323875533
 PrefabInstance:
@@ -10318,7 +10294,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &360928154
 Mesh:
@@ -10910,9 +10885,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &401020014
@@ -11335,7 +11307,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &420181089
 Mesh:
@@ -11616,7 +11587,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &423996988
 GameObject:
@@ -11671,9 +11641,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &423996991
@@ -12096,7 +12063,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &443306940
 Mesh:
@@ -12556,7 +12522,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &462714956
 Mesh:
@@ -13195,7 +13160,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &496191573
 GameObject:
@@ -13286,7 +13250,7 @@ Transform:
   m_GameObject: {fileID: 496191573}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12, y: 1.4937, z: 2.0893}
+  m_LocalPosition: {x: 12, y: 1.4937, z: -2.0000002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13660,7 +13624,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &499014686
 PrefabInstance:
@@ -13762,8 +13725,89 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
+--- !u!1001 &499218211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1712958756}
+    m_Modifications:
+    - target: {fileID: 18131678651754170, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1394643469}
+    - target: {fileID: 18131678651754170, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_VersionIndex
+      value: 1877
+      objectReference: {fileID: 0}
+    - target: {fileID: 1173117734453720088, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1394643469}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -21.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.58103347
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7907372634085131897, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 53808088}
+    - target: {fileID: 7907372634085131897, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: stealthManager
+      value: 
+      objectReference: {fileID: 2047342422}
+    - target: {fileID: 8688003478959646165, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+      propertyPath: m_Name
+      value: Light (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+--- !u!4 &499218212 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6421584581841908124, guid: 4d4927d51323de726b4874a24b1616c6, type: 3}
+  m_PrefabInstance: {fileID: 499218211}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &509102915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13864,7 +13908,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &514606696
 PrefabInstance:
@@ -13966,7 +14009,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &517301706
 PrefabInstance:
@@ -14068,7 +14110,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &517439906
 Mesh:
@@ -14707,7 +14748,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &544240168
 Mesh:
@@ -15167,7 +15207,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &571722071
 GameObject:
@@ -15908,7 +15947,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &583189322
 Mesh:
@@ -16189,7 +16227,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &595852938
 PrefabInstance:
@@ -16291,7 +16328,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &602538828
 PrefabInstance:
@@ -16393,7 +16429,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &609727649
 GameObject:
@@ -16866,7 +16901,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &613146544
 Mesh:
@@ -17264,9 +17298,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &625739638
@@ -18345,7 +18376,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &670349545
 Mesh:
@@ -18626,7 +18656,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &671501462
 Mesh:
@@ -18907,7 +18936,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &676336261
 Mesh:
@@ -19188,7 +19216,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &713097831
 Mesh:
@@ -20183,7 +20210,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &758272824
 Mesh:
@@ -20464,7 +20490,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &771189424
 GameObject:
@@ -20519,9 +20544,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &771189427
@@ -21302,7 +21324,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &774603925
 PrefabInstance:
@@ -21404,7 +21425,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &782702759
 PrefabInstance:
@@ -21506,7 +21526,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &787986609
 Mesh:
@@ -21787,7 +21806,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &788933585
 PrefabInstance:
@@ -21889,7 +21907,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &790429948
 PrefabInstance:
@@ -21991,7 +22008,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &793071534
 GameObject:
@@ -22046,9 +22062,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &793071537
@@ -23006,7 +23019,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &820723120
 PrefabInstance:
@@ -23108,7 +23120,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &821637312
 PrefabInstance:
@@ -23210,7 +23221,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &840949050
 PrefabInstance:
@@ -23312,7 +23322,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &847563201
 Mesh:
@@ -23951,7 +23960,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &863717423
 Mesh:
@@ -25149,7 +25157,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &937653309
 Mesh:
@@ -26325,7 +26332,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &972115140
 Mesh:
@@ -26785,7 +26791,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1002105283
 Mesh:
@@ -27066,7 +27071,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1007709017
 PrefabInstance:
@@ -27168,7 +27172,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1011235406
 PrefabInstance:
@@ -27270,7 +27273,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1011818767
 Mesh:
@@ -28088,7 +28090,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1058088978
 Mesh:
@@ -28369,7 +28370,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1064049136
 Mesh:
@@ -29008,7 +29008,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1092712950
 PrefabInstance:
@@ -29110,7 +29109,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1094977092
 Mesh:
@@ -29391,7 +29389,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1121836368
 Mesh:
@@ -29672,7 +29669,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1134251005
 Mesh:
@@ -30132,7 +30128,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1145468041
 Mesh:
@@ -31082,9 +31077,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &1166897510
@@ -31507,7 +31499,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1168815237
 Mesh:
@@ -31788,7 +31779,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1189082207
 Mesh:
@@ -32248,7 +32238,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1198264504
 GameObject:
@@ -33601,7 +33590,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1255603016
 PrefabInstance:
@@ -33703,7 +33691,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1261069179
 GameObject:
@@ -33758,9 +33745,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &1261069182
@@ -34541,7 +34525,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1268837719
 Mesh:
@@ -35717,7 +35700,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1307130611
 PrefabInstance:
@@ -35819,7 +35801,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1308880156
 PrefabInstance:
@@ -35921,7 +35902,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1322838748
 PrefabInstance:
@@ -36284,7 +36264,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1349772995
 GameObject:
@@ -36431,7 +36410,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1357708176
 GameObject:
@@ -36787,7 +36765,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1372863198
 PrefabInstance:
@@ -36971,7 +36948,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1379270144
 Mesh:
@@ -37431,8 +37407,186 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
+--- !u!43 &1394643469
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pb_Mesh148369:1792
+  serializedVersion: 12
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 36
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 24
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.25, y: 0.125, z: 0.25}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 0
+  m_KeepIndices: 0
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a0009000b000a000c000d000e000d000f000e00100011001200110013001200140015001600150017001600y
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 24
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 1152
+    _typelessdata: 000080be000000be0000803e00000000000000000000803f000080bf0000000000000000000080bf0000003f0000403f0000803e000000be0000803e00000000000000000000803f000080bf0000000000000000000080bf000000000000403f000080be0000003e0000803e00000000000000000000803f000080bf0000000000000000000080bf0000003f0000803f0000803e0000003e0000803e00000000000000000000803f000080bf0000000000000000000080bf000000000000803f0000803e000000be0000803e0000803f000000000000000000000000000000000000803f000080bf0000003f0000403f0000803e000000be000080be0000803f000000000000000000000000000000000000803f000080bf000000000000403f0000803e0000003e0000803e0000803f000000000000000000000000000000000000803f000080bf0000003f0000803f0000803e0000003e000080be0000803f000000000000000000000000000000000000803f000080bf000000000000803f0000803e000000be000080be0000000000000000000080bf0000803f0000000000000000000080bf0000003f0000403f000080be000000be000080be0000000000000000000080bf0000803f0000000000000000000080bf000000000000403f0000803e0000003e000080be0000000000000000000080bf0000803f0000000000000000000080bf0000003f0000803f000080be0000003e000080be0000000000000000000080bf0000803f0000000000000000000080bf000000000000803f000080be000000be000080be000080bf00000000000000000000000000000000000080bf000080bf0000003f0000403f000080be000000be0000803e000080bf00000000000000000000000000000000000080bf000080bf000000000000403f000080be0000003e000080be000080bf00000000000000000000000000000000000080bf000080bf0000003f0000803f000080be0000003e0000803e000080bf00000000000000000000000000000000000080bf000080bf000000000000803f000080be0000003e0000803e000000000000803f000000000000803f0000000000000000000080bf000000000000803f0000803e0000003e0000803e000000000000803f000000000000803f0000000000000000000080bf0000003f0000803f000080be0000003e000080be000000000000803f000000000000803f0000000000000000000080bf000000000000003f0000803e0000003e000080be000000000000803f000000000000803f0000000000000000000080bf0000003f0000003f000080be000000be000080be00000000000080bf00000000000080bf0000000000000000000080bf0000003f0000003f0000803e000000be000080be00000000000080bf00000000000080bf0000000000000000000080bf000000000000003f000080be000000be0000803e00000000000080bf00000000000080bf0000000000000000000080bf0000003f0000803f0000803e000000be0000803e00000000000080bf00000000000080bf0000000000000000000080bf000000000000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.25, y: 0.125, z: 0.25}
+  m_CookingOptions: 30
+  m_PreBakeConvexCollisionMesh: 0
+  m_PreBakeTriangleCollisionMesh: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  'm_MeshMetrics[0]': 1
+  'm_MeshMetrics[1]': 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_MeshLodInfo:
+    serializedVersion: 2
+    m_LodSelectionCurve:
+      serializedVersion: 1
+      m_LodSlope: 0
+      m_LodBias: 0
+    m_NumLevels: 1
+    m_SubMeshes:
+    - serializedVersion: 2
+      m_Levels:
+      - serializedVersion: 1
+        m_IndexStart: 0
+        m_IndexCount: 0
 --- !u!43 &1396827651
 Mesh:
   m_ObjectHideFlags: 0
@@ -37988,7 +38142,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 53808094}
   moving: 0
 --- !u!43 &1429375438
 Mesh:
@@ -38448,7 +38601,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1445647980
 Mesh:
@@ -38729,7 +38881,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1459554120
 Mesh:
@@ -39762,7 +39913,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1490268346
 PrefabInstance:
@@ -39864,7 +40014,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1495721956
 Mesh:
@@ -40145,7 +40294,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1512235737
 Mesh:
@@ -41319,7 +41467,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1538299990
 Mesh:
@@ -41600,7 +41747,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1559432316
 Mesh:
@@ -42239,7 +42385,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1611735251
 PrefabInstance:
@@ -42341,7 +42486,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1616294073
 PrefabInstance:
@@ -43280,7 +43424,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1646848430
 PrefabInstance:
@@ -43464,7 +43607,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1671582101
 Mesh:
@@ -43745,7 +43887,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1678346658
 PrefabInstance:
@@ -43847,7 +43988,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1680324535
 Mesh:
@@ -44081,9 +44221,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &1680876210
@@ -44685,7 +44822,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1691213065
 PrefabInstance:
@@ -44822,9 +44958,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &1691545295
@@ -45355,7 +45488,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1700528694
 Mesh:
@@ -45815,7 +45947,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1712958750
 GameObject:
@@ -46173,6 +46304,7 @@ Transform:
   m_Children:
   - {fileID: 1322838749}
   - {fileID: 646131292}
+  - {fileID: 499218212}
   - {fileID: 323875534}
   - {fileID: 1646848431}
   - {fileID: 1691213066}
@@ -46280,7 +46412,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1731256743
 Mesh:
@@ -46643,7 +46774,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1747861846
 GameObject:
@@ -47125,7 +47255,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1760114308
 PrefabInstance:
@@ -47227,7 +47356,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1761572393
 Mesh:
@@ -47508,7 +47636,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1777766829
 PrefabInstance:
@@ -47610,7 +47737,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1790146503
 PrefabInstance:
@@ -47712,7 +47838,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1797131002
 PrefabInstance:
@@ -47814,7 +47939,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1803621663
 Mesh:
@@ -48095,7 +48219,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1812211091
 PrefabInstance:
@@ -48197,7 +48320,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1815800547
 Mesh:
@@ -49194,7 +49316,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1842463519
 PrefabInstance:
@@ -49296,7 +49417,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1842576253
 Mesh:
@@ -49577,7 +49697,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1844796156
 Mesh:
@@ -50037,7 +50156,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1857723994
 PrefabInstance:
@@ -50139,7 +50257,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1859647367
 Mesh:
@@ -50420,7 +50537,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1865631482
 Mesh:
@@ -50701,7 +50817,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1882275985
 PrefabInstance:
@@ -50803,7 +50918,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &1887037749
 GameObject:
@@ -51186,7 +51300,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1906549076
 PrefabInstance:
@@ -51288,7 +51401,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1908977982
 PrefabInstance:
@@ -51390,7 +51502,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1921160944
 Mesh:
@@ -52208,7 +52319,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1938420991
 PrefabInstance:
@@ -52310,7 +52420,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1947454059
 PrefabInstance:
@@ -52412,7 +52521,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1953364592
 PrefabInstance:
@@ -52514,7 +52622,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1957210434
 PrefabInstance:
@@ -52616,7 +52723,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &1958469953
 Mesh:
@@ -52897,7 +53003,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &1975861128
 PrefabInstance:
@@ -52999,7 +53104,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2008337843
 PrefabInstance:
@@ -53101,7 +53205,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2011153876
 PrefabInstance:
@@ -53203,7 +53306,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2033978235
 Mesh:
@@ -53484,7 +53586,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2043838520
 PrefabInstance:
@@ -53586,7 +53687,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1 &2044714157
 GameObject:
@@ -53641,9 +53741,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &2044714160
@@ -54675,7 +54772,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2058426287
 Mesh:
@@ -55135,7 +55231,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2068033521
 PrefabInstance:
@@ -55237,7 +55332,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2069276987
 Mesh:
@@ -55650,9 +55744,6 @@ MonoBehaviour:
   occlusionMask:
     serializedVersion: 2
     m_Bits: 1
-  playerMask:
-    serializedVersion: 2
-    m_Bits: 64
   maxDistance: 12
   lightConeAngle: 19.8
 --- !u!64 &2080866280
@@ -56433,7 +56524,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2105399050
 PrefabInstance:
@@ -56535,7 +56625,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2108900531
 PrefabInstance:
@@ -56637,7 +56726,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2109842804
 Mesh:
@@ -57097,7 +57185,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2114953437
 Mesh:
@@ -57378,7 +57465,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2119785244
 Mesh:
@@ -57659,7 +57745,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2131728583
 PrefabInstance:
@@ -57761,7 +57846,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &2138442383
 PrefabInstance:
@@ -57863,7 +57947,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!43 &2142497249
 Mesh:
@@ -58144,7 +58227,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   stealthManager: {fileID: 2047342422}
-  playerManager: {fileID: 0}
   moving: 0
 --- !u!1001 &6770350884001910220
 PrefabInstance:
@@ -58200,7 +58282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6421584581841908124, guid: 7b8b8268e2a93f0ddad2270d286a483f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2
+      value: -2.0893002
       objectReference: {fileID: 0}
     - target: {fileID: 6421584581841908124, guid: 7b8b8268e2a93f0ddad2270d286a483f, type: 3}
       propertyPath: m_LocalRotation.w
