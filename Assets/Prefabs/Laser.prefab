@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 256271164316714813}
   - component: {fileID: 4847453984909522369}
   - component: {fileID: 1423428449114888712}
-  - component: {fileID: 8028255191500938462}
   m_Layer: 0
   m_Name: Object
   m_TagString: Untagged
@@ -327,7 +326,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6ad6ccfa1945fd5df85349123b832021, type: 2}
+  - {fileID: 2100000, guid: c045bc3a21d7e11328d1aaaee444c04b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -380,18 +379,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.103987716, y: 34.500008, z: 0.088163376}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &8028255191500938462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 870879882970384716}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e634565762825faf7a86083f3527015a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &7552505149289442441
 GameObject:
   m_ObjectHideFlags: 0

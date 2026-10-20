@@ -8,9 +8,7 @@ public class Winner : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            other.GetComponent<PlayerStats>().IncrementHP(999);
             Debug.Log("GG You Win!!");
-            playerManager.Pause();
         }
     }
 }

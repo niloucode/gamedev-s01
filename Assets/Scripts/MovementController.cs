@@ -10,7 +10,8 @@ public class MovementController : MonoBehaviour
     [SerializeField] private GameObject standingModel;
     [SerializeField] private GameObject crouchingModel;
     [SerializeField] private CapsuleCollider playerCollider;
-    
+    [SerializeField] private Transform characterHead;
+
     [SerializeField] private float moveSpeed = 5f;
 
     [SerializeField] private float sprintSpeedBoost = 2f;
@@ -27,6 +28,7 @@ public class MovementController : MonoBehaviour
     private Vector2 moveInput;
     private Vector3 respawnPoint;
     private Rigidbody rb;
+    private Vector3 standingHeadPosition;
 
     private void Awake()
     {
@@ -40,6 +42,7 @@ public class MovementController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         respawnPoint = transform.position;
+        standingHeadPosition = characterHead.localPosition;
     }
 
     public void SpeedBoost()
@@ -75,6 +78,13 @@ public class MovementController : MonoBehaviour
         {
             isSprinting = Keyboard.current.leftShiftKey.isPressed;
         }
+        
+        Vector3 headPosition = standingHeadPosition;
+            headPosition.y = isCrouching
+                ? standingHeadPosition.y - 0.82f  // 1.31 -> 0.49
+                : standingHeadPosition.y;
+
+            characterHead.localPosition = headPosition;
 
         standingModel.SetActive(!isCrouching);
         crouchingModel.SetActive(isCrouching);
@@ -119,7 +129,6 @@ public class MovementController : MonoBehaviour
 
         if (moveInput.sqrMagnitude > 0.001f)
         {
-            playerManager.PlayerMovedAction();
             transform.rotation = Quaternion.Slerp(
                 transform.rotation,
                 Quaternion.LookRotation(movement),
